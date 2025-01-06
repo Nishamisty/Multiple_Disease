@@ -10,7 +10,7 @@ with open("parkinsons_model.pkl", "rb") as file:
 with open("kidney_model.pkl", "rb") as file:
     kidney_model = pickle.load(file)
 
-with open("liver_model.pkl", "rb") as file:
+with open("https://github.com/Nishamisty/Multiple_Disease/blob/main/liver_model.pkl", "rb") as file:
     liver_model = pickle.load(file)
 
 # Streamlit dashboard
